@@ -2,7 +2,7 @@
 
 ### 💫 About Me:
 
-🔭 I'm currently working on: Honing my problem-solving skills in Python, C, and C++, and developing intelligent AI workflows and agents.<br><br>👯 I'm looking to collaborate on: Open-source projects related to AI tools, data science case studies, or any innovative application built with Python.<br><br>🤝 I'm looking for help with: Advanced concepts in agentic AI and practical applications of data visualization techniques on real-world datasets.<br><br>🌱 I'm currently learning: The fundamentals of data science, focusing on data manipulation and visualization, while also managing databases with MySQL.<br><br>💬 Ask me about: Using Python for competitive programming, the basics of AI bots, or how to get started with C/C++.<br><br>⚡ Fun fact: I find debugging code to be a more compelling mystery than most thriller movies!
+🔭 I'm currently working on: Honing my problem-solving skills in Python, C, and C++, and developing intelligent AI workflows and agents.<br>👯 I'm looking to collaborate on: Open-source projects related to AI tools, data science case studies, or any innovative application built with Python.<br>🤝 I'm looking for help with: Advanced concepts in agentic AI and practical applications of data visualization techniques on real-world datasets.<br>🌱 I'm currently learning: The fundamentals of data science, focusing on data manipulation and visualization, while also managing databases with MySQL.<br>💬 Ask me about: Using Python for competitive programming, the basics of AI bots, or how to get started with C/C++.<br>⚡ Fun fact: I find debugging code to be a more compelling mystery than most thriller movies!
 
 
 ### 🌐 Socials:
@@ -23,3 +23,4 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
